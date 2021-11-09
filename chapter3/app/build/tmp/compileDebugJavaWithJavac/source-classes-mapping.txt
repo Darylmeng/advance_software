@@ -1,0 +1,18 @@
+com/example/chapter3/persist/ToDoSQLiteHelper.java
+ com.example.chapter3.persist.ToDoSQLiteHelper
+chapter3/BuildConfig.java
+ chapter3.BuildConfig
+com/example/chapter3/DataFactory.java
+ com.example.chapter3.DataFactory
+com/example/chapter3/SearchViewHolder.java
+ com.example.chapter3.SearchViewHolder
+com/example/chapter3/MainActivity.java
+ com.example.chapter3.MainActivity
+com/example/chapter3/SearchAdapter.java
+ com.example.chapter3.SearchAdapter
+ com.example.chapter3.SearchAdapter$1
+ com.example.chapter3.SearchAdapter$2
+com/example/chapter3/model/ToDoEntity.java
+ com.example.chapter3.model.ToDoEntity
+com/example/chapter3/AddNoteActivity.java
+ com.example.chapter3.AddNoteActivity
